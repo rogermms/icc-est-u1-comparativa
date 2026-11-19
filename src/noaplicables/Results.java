@@ -1,3 +1,5 @@
+package noaplicables;
+/*
 public class Results {
     // Guarda los datos de el resultado
     private String name;
@@ -58,3 +60,4 @@ public class Results {
     
     
 }
+*/

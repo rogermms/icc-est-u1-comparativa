@@ -1,3 +1,5 @@
+package noaplicables;
+/*
 public class Benchmark {
     //Ejecuta las acciones cronometradas de inicio a fin en nanosegundos
     
@@ -17,3 +19,4 @@ public class Benchmark {
     }
     
 }
+*/
